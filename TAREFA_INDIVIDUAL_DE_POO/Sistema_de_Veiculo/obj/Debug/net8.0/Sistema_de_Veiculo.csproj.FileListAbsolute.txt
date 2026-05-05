@@ -1,0 +1,14 @@
+C:\Users\Claudia Armando\Documents\3_ANO\II_SEMESTRE\POO\Sistema_de_Veiculo\bin\Debug\net8.0\Sistema_de_Veiculo.exe
+C:\Users\Claudia Armando\Documents\3_ANO\II_SEMESTRE\POO\Sistema_de_Veiculo\bin\Debug\net8.0\Sistema_de_Veiculo.deps.json
+C:\Users\Claudia Armando\Documents\3_ANO\II_SEMESTRE\POO\Sistema_de_Veiculo\bin\Debug\net8.0\Sistema_de_Veiculo.runtimeconfig.json
+C:\Users\Claudia Armando\Documents\3_ANO\II_SEMESTRE\POO\Sistema_de_Veiculo\bin\Debug\net8.0\Sistema_de_Veiculo.dll
+C:\Users\Claudia Armando\Documents\3_ANO\II_SEMESTRE\POO\Sistema_de_Veiculo\bin\Debug\net8.0\Sistema_de_Veiculo.pdb
+C:\Users\Claudia Armando\Documents\3_ANO\II_SEMESTRE\POO\Sistema_de_Veiculo\obj\Debug\net8.0\Sistema_de_Veiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudia Armando\Documents\3_ANO\II_SEMESTRE\POO\Sistema_de_Veiculo\obj\Debug\net8.0\Sistema_de_Veiculo.AssemblyInfoInputs.cache
+C:\Users\Claudia Armando\Documents\3_ANO\II_SEMESTRE\POO\Sistema_de_Veiculo\obj\Debug\net8.0\Sistema_de_Veiculo.AssemblyInfo.cs
+C:\Users\Claudia Armando\Documents\3_ANO\II_SEMESTRE\POO\Sistema_de_Veiculo\obj\Debug\net8.0\Sistema_de_Veiculo.csproj.CoreCompileInputs.cache
+C:\Users\Claudia Armando\Documents\3_ANO\II_SEMESTRE\POO\Sistema_de_Veiculo\obj\Debug\net8.0\Sistema_de_Veiculo.dll
+C:\Users\Claudia Armando\Documents\3_ANO\II_SEMESTRE\POO\Sistema_de_Veiculo\obj\Debug\net8.0\refint\Sistema_de_Veiculo.dll
+C:\Users\Claudia Armando\Documents\3_ANO\II_SEMESTRE\POO\Sistema_de_Veiculo\obj\Debug\net8.0\Sistema_de_Veiculo.pdb
+C:\Users\Claudia Armando\Documents\3_ANO\II_SEMESTRE\POO\Sistema_de_Veiculo\obj\Debug\net8.0\Sistema_de_Veiculo.genruntimeconfig.cache
+C:\Users\Claudia Armando\Documents\3_ANO\II_SEMESTRE\POO\Sistema_de_Veiculo\obj\Debug\net8.0\ref\Sistema_de_Veiculo.dll
